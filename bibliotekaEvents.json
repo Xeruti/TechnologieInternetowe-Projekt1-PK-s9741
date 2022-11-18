@@ -1,0 +1,76 @@
+{
+    "Events":[
+    {
+        "id":1,
+        "title":"Czytanie w Nowym Roku",
+        "dateStart":"01-01-2022",
+        "dateEnd":"31-01-2022",
+        "description":"Zachęcamy wszystkich do odkrycia nowych gatunków literackich w nowym roku.",
+        "type":"challenge"
+    },
+    {
+        "id":2,
+        "title":"10 ksiązek w lutym",
+        "dateStart":"01-02-2022",
+        "dateEnd":"28-02-2022",
+        "description":"Nasza biblioteka wybrała 10 najciekawszych książek z poprzedniego roku, zachęcamy do zapoznania się z nimi.",
+        "type":"info"
+    },
+    {
+        "id":3,
+        "title":"Początek wiosny z powieścią",
+        "dateStart":"20-03-2022",
+        "dateEnd":"31-03-2022",
+        "description":"Zaczęcie wiosny z ulubionymi powieściami wybranymi przez użytkowników",
+        "type":"info"
+    },
+    {
+        "id":4,
+        "title":"Wielkanocne czytanie",
+        "dateStart":"17-04-2022",
+        "dateEnd":"30-04-2022",
+        "description":"Wielkanocne czytanie książek",
+        "type":"info"
+    },
+    {
+        "id":5,
+        "title":"Wyzwanie 5 gatunków",
+        "dateStart":"01-05-2022",
+        "dateEnd":"31-05-2022",
+        "description":"Zachęcamy wszystkich do udziału w naszym konkursie - przeczytaj książki z 5 rożnych gatunków",
+        "type":"challenge"
+    },
+    {
+        "id":6,
+        "title":"Miesiąc fantasy",
+        "dateStart":"01-06-2022",
+        "dateEnd":"30-06-2022",
+        "description":"Podajemy listę topowych książek fantasy",
+        "type":"info"
+    },
+    {
+        "id":7,
+        "title":"Miesiąc sci-fi",
+        "dateStart":"01-07-2022",
+        "dateEnd":"31-07-2022",
+        "description":"Podajemy listę topowych książek sci-fi",
+        "type":"info"
+    },
+    {
+        "id":8,
+        "title":"Miesiąc sportowy",
+        "dateStart":"01-08-2022",
+        "dateEnd":"31-08-2022",
+        "description":"Podajemy listę topowych książek sportowych",
+        "type":"info"
+    },
+    {
+        "id":9,
+        "title":"Top lista 2022",
+        "dateStart":"01-12-2022",
+        "dateEnd":"31-12-2022",
+        "description":"Podajemy listę topowych książek sportowych",
+        "type":"info"
+    }
+    ]
+}
